@@ -1,0 +1,9 @@
+Package: com.lns.bbpr
+Name: BilibiliBangumiReviewCover
+Version: 0.0.1
+Architecture: iphoneos-arm
+Description: Cover the reviews of the bangumi review view that may affect your watching experience.
+Maintainer: LNSSPsd
+Author: LNSSPsd
+Section: Tweaks
+Depends: mobilesubstrate (>= 0.9.5000)
